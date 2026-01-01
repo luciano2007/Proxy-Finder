@@ -35,7 +35,7 @@ The current version is mainly a blueprint: the original sites it scraped are now
 
 3. Run the script:
    ```bash
-   python proxy_finder.py
+   python proxy-finder.py
    ```
 
 4. When prompted, enter how many proxies you want (recommended: 1–15).
